@@ -1,6 +1,7 @@
 ## Hi, I'm Eya Cherif</br>
 24 years old</br>
 Currently pursuing a research master's degree in computer science</br>
+DevOps ✨</br>
 
 
 ## 🌐 Socials:
