@@ -1,7 +1,11 @@
 <div align="center">
-## Hi 👋, I'm Eya Cherif</br>
+
+## Hi 👋, I'm Eya Cherif </br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=eyacherif03&color=brightgreen)
+
 </div>
+
 🎉 24 years old</br>
 💻 Currently pursuing a research master's degree in computer science</br>
 ♾️ DevOps ✨</br>
