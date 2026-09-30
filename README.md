@@ -6,9 +6,9 @@
 
 </div>
 
-🎉 24 years old</br>
-💻 Currently pursuing a research master's degree in computer science</br>
-♾️ DevOps ✨</br>
+🎉 25 years old</br>
+💻 Researcher in computer science</br>
+♾️ DevOps | MLOps ✨</br>
 
 
 
